@@ -1,0 +1,27 @@
+{
+  "name": "marveljs",
+  "version": "0.1.0",
+  "description": "Marvelmind on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuadamanik/marveljs.git"
+  },
+  "keywords": [
+    "marvelmind",
+    "gps"
+  ],
+  "author": "Joshua J. Damanik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuadamanik/marveljs/issues"
+  },
+  "homepage": "https://github.com/joshuadamanik/marveljs#readme",
+  "dependencies": {
+    "bufferpack": "0.0.6",
+    "serialport": "^6.0.5"
+  }
+}
